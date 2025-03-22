@@ -1,0 +1,46 @@
+[1] "Loaded processed data:"
+                      HSBA.L                         BP.L                       ULVR.L 
+  "HSBA.L : £680.60 (0.38%)"     "BP.L : £399.60 (-0.1%)" "ULVR.L : £4831.00 (-0.54%)" 
+                      BARC.L                       LLOY.L 
+ "BARC.L : £242.25 (-1.16%)"    "LLOY.L : £62.18 (0.52%)" 
+                                                                                  Headline
+1  'Nothing can bring a life back': Brazil dam collapse survivors speak as UK trial begins
+2                                      TikTok owner sacks intern for sabotaging AI project
+3                                            Boeing strikers to vote on 35% pay rise offer
+4                                    How hoax bomb threats are hurting air travel in India
+5                                                        China's economic slowdown deepens
+6                                            Netflix raises prices as password boost fades
+7                             Alleged Bitcoin hacker searched 'signs the FBI is after you'
+8                                        Meta fires staff for buying toothpaste, not lunch
+9                                      US 'click to cancel' rule to ban subscription traps
+10                                      Boeing seeks up to $35bn as costly strike drags on
+11                       Lufthansa hit with record penalty after barring Jewish passengers
+12                                                                  Technology of Business
+13                                                                             CEO Secrets
+14                                                                 Artificial intelligence
+15                                                                        New Tech Economy
+16                                                                   Global cost of living
+17                                                                               Instagram
+18                                                                                  TikTok
+19                                                                                Facebook
+                                                           Link
+1              https://www.bbc.co.uk/news/articles/c7v62gg49zro
+2              https://www.bbc.co.uk/news/articles/cn8j07jp0y9o
+3              https://www.bbc.co.uk/news/articles/cx2kz84kgj0o
+4              https://www.bbc.co.uk/news/articles/crr54x00857o
+5              https://www.bbc.co.uk/news/articles/cq5exj06vg6o
+6              https://www.bbc.co.uk/news/articles/c20pvkg35xyo
+7              https://www.bbc.co.uk/news/articles/cvgdyzq3wz5o
+8              https://www.bbc.co.uk/news/articles/c07nlvmyl05o
+9              https://www.bbc.co.uk/news/articles/cwy9l7k40kgo
+10             https://www.bbc.co.uk/news/articles/c3dv3l5pvy3o
+11                 https://www.bbc.co.uk/news/business-11428889
+12               https://www.bbc.co.uk/news/topics/cj8k8ngevpgt
+13               https://www.bbc.co.uk/news/topics/ce1qrvleleqt
+14               https://www.bbc.co.uk/news/topics/cgmlnmr3yjzt
+15               https://www.bbc.co.uk/news/topics/cq0jeeeqmndt
+16      https://www.bbc.co.ukhttps://www.instagram.com/bbcnews/
+17 https://www.bbc.co.ukhttps://www.tiktok.com/@bbcnews?lang=en
+18        https://www.bbc.co.ukhttps://www.facebook.com/bbcnews
+19             https://www.bbc.co.ukhttps://twitter.com/BBCNews
+[1] "Assignment 2 Submission:\n\nStock Summary:\nHSBA.L : £680.60 (0.38%)\nBP.L : £399.60 (-0.1%)\nULVR.L : £4831.00 (-0.54%)\nBARC.L : £242.25 (-1.16%)\nLLOY.L : £62.18 (0.52%)\n\nToday's News:\n1. 'Nothing can bring a life back': Brazil dam collapse survivors speak as UK trial begins - https://www.bbc.co.uk/news/articles/c7v62gg49zro\n2. TikTok owner sacks intern for sabotaging AI project - https://www.bbc.co.uk/news/articles/cn8j07jp0y9o\n3. Boeing strikers to vote on 35% pay rise offer - https://www.bbc.co.uk/news/articles/cx2kz84kgj0o\n4. How hoax bomb threats are hurting air travel in India - https://www.bbc.co.uk/news/articles/crr54x00857o\n5. China's economic slowdown deepens - https://www.bbc.co.uk/news/articles/cq5exj06vg6o\n6. Netflix raises prices as password boost fades - https://www.bbc.co.uk/news/articles/c20pvkg35xyo\n7. Alleged Bitcoin hacker searched 'signs the FBI is after you' - https://www.bbc.co.uk/news/articles/cvgdyzq3wz5o\n8. Meta fires staff for buying toothpaste, not lunch - https://www.bbc.co.uk/news/articles/c07nlvmyl05o\n9. US 'click to cancel' rule to ban subscription traps - https://www.bbc.co.uk/news/articles/cwy9l7k40kgo\n10. Boeing seeks up to $35bn as costly strike drags on - https://www.bbc.co.uk/news/articles/c3dv3l5pvy3o\n11. Lufthansa hit with record penalty after barring Jewish passengers - https://www.bbc.co.uk/news/business-11428889\n12. Technology of Business - https://www.bbc.co.uk/news/topics/cj8k8ngevpgt\n13. CEO Secrets - https://www.bbc.co.uk/news/topics/ce1qrvleleqt\n14. Artificial intelligence - https://www.bbc.co.uk/news/topics/cgmlnmr3yjzt\n15. New Tech Economy - https://www.bbc.co.uk/news/topics/cq0jeeeqmndt\n16. Global cost of living - https://www.bbc.co.ukhttps://www.instagram.com/bbcnews/\n17. Instagram - https://www.bbc.co.ukhttps://www.tiktok.com/@bbcnews?lang=en\n18. TikTok - https://www.bbc.co.ukhttps://www.facebook.com/bbcnews\n19. Facebook - https://www.bbc.co.ukhttps://twitter.com/BBCNews"

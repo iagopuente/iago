@@ -1,0 +1,66 @@
+ETL Process Started: Mon Oct 21 12:13:13 GMTST 2024
+Running API Access Script...
+Installing package into 'C:/Users/bolix/AppData/Local/R/win-library/4.4'
+(as 'lib' is unspecified)
+trying URL 'https://cran.r-project.org/bin/windows/contrib/4.4/httr_1.4.7.zip'
+Content type 'application/zip' length 495282 bytes (483 KB)
+==================================================
+downloaded 483 KB
+
+package 'httr' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\bolix\AppData\Local\Temp\RtmpgzvsS7\downloaded_packages
+Installing package into 'C:/Users/bolix/AppData/Local/R/win-library/4.4'
+(as 'lib' is unspecified)
+trying URL 'https://cran.r-project.org/bin/windows/contrib/4.4/jsonlite_1.8.9.zip'
+Content type 'application/zip' length 1107267 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+package 'jsonlite' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\bolix\AppData\Local\Temp\RtmpgzvsS7\downloaded_packages
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+No encoding supplied: defaulting to UTF-8.
+API Access Script Finished
+Running Web Scraping Script...
+Loading required package: rvest
+News articles successfully scraped. 
+Web Scraping Script Finished
+Running Data Processing Script...
+                      HSBA.L                         BP.L 
+  "HSBA.L : £680.60 (0.38%)"     "BP.L : £399.60 (-0.1%)" 
+                      ULVR.L                       BARC.L 
+"ULVR.L : £4831.00 (-0.54%)"  "BARC.L : £242.25 (-1.16%)" 
+                      LLOY.L 
+   "LLOY.L : £62.18 (0.52%)" 
+Data Processing Script Finished
+Running Data Storage Script...
+Installing package into 'C:/Users/bolix/AppData/Local/R/win-library/4.4'
+(as 'lib' is unspecified)
+trying URL 'https://cran.r-project.org/bin/windows/contrib/4.4/RSQLite_2.3.7.zip'
+Content type 'application/zip' length 1609958 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+package 'RSQLite' successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\bolix\AppData\Local\Temp\Rtmp0mICBH\downloaded_packages
+Data Storage Script Finished
+Running Email Sending Script...
+Loading required package: mailR
+java.home option: 
+JAVA_HOME environment variable: C:\Program Files\Java\jdk-15
+Warning message:
+In fun(libname, pkgname) :
+  Java home setting is INVALID, it will be ignored.
+Please do NOT set it unless you want to override system settings.
+Email sent successfully.
+Email Sending Script Finished
+ETL Process Finished: Mon Oct 21 12:15:09 GMTST 2024
